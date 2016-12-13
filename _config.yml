@@ -1,0 +1,39 @@
+# Site settings
+title: Innovation 
+header-img: img/simple-back.png
+email: jamesbrother@gmail.com
+copyright_name: Seongjin Lee
+description: "Write your site description here. It will be used as your sites meta description as well!"
+#baseurl: "/startbootstrap-clean-blog-jekyll"
+baseurl: ""
+url: "http://resourceful.github.io"
+twitter_username: _mak3r
+github_username: resourceful
+facebook_username: seongjin.lee.18
+email_username:  jamesbrother@gmail.com 
+linkedin_username:  seongjin-lee-2677061b
+google_scholar_username: mzWSzNAAAAAJ
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+
+future: true
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 15
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","contact.html","tags.html","categories.html" ]
+
+gems: [jekyll-paginate, jekyll-feed]
+
+sass:
+   style:compressed
+
+collections:
+   classes:
+      output: true
+      permalink: /classes/:path/
