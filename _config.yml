@@ -21,7 +21,7 @@ future:            true
 markdown:          kramdown
 # highlighter:       rouge
 # permalink:         pretty
-# paginate:          15
+paginate:          15
 
 exclude: ["less", "node_modules", "Grunfile.js", "package.json", "README.md", "contact.html", "tags.html", "categories.html", "Gemfile", "Gemfile.lock"]
 
