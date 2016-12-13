@@ -1,0 +1,23 @@
+---
+layout:     post-classes
+title:      "Lecture 12"
+description:   "Interprocess Communication"
+date:       2016-12-07 00:37:00
+author:     "Seongjin Lee"
+comments: true
+---
+
+In this class, we will cover
+
+* Pipes
+* Coprocesses
+* FIFOs
+* XSI IPC
+* Message Queus
+* Semaphores
+* Shared Memory
+
+
+The class materials are in [this url(on Interprocess Communication)](https://github.com/resourceful/lecture_sysprog/tree/master/11_ipc)
+
+
