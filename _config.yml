@@ -1,8 +1,8 @@
 title:             Innovation
 header-img:        img/simple-back.
 email:             jamesbrother@gmail.com
-copyright_name:    Seongjin Lee
-description:       The New Start
+copyright_name:    "Seongjin Lee"
+description:       "The New Start"
 baseurl:           "" 
 url:               "http://resourceful.github.io" 
 twitter_username:  _mak3r
@@ -19,23 +19,20 @@ future:            true
 
 # Build settings
 markdown:          kramdown
-highlighter:       rouge
-permalink:         pretty
-paginate:          15
+# highlighter:       rouge
+# permalink:         pretty
+# paginate:          15
 
-exclude: ["less", "node_modules", "Grunfile.js", "package.json", "README.md", "contact.html", "tags.html", "categories.html"]
+exclude: ["less", "node_modules", "Grunfile.js", "package.json", "README.md", "contact.html", "tags.html", "categories.html", "Gemfile", "Gemfile.lock"]
 
-sass:
-  style:compressed
+#sass:
+#  style:compressed
 
 gems:
   - jekyll-feed
   - jekyll-paginate
-exclude:
-  - Gemfile
-  - Gemfile.lock
 
-collections:
-    classes:
-        output:      true
-        permalink:   /classes/:path/
+#collections:
+#    classes:
+#        output:      true
+#        permalink:   /classes/:path/
