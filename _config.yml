@@ -34,3 +34,8 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+collections:
+    classes:
+        output:      true
+        permalink:   /classes/:path/
