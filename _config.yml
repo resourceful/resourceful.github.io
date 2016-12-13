@@ -20,6 +20,8 @@ google_scholar_username: mzWSzNAAAAAJ
 
 
 future: true
+safe:   true
+lsi:    false
 
 # Build settings
 markdown: kramdown
