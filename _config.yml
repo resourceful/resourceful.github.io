@@ -19,7 +19,7 @@ future:            true
 
 # Build settings
 markdown:          kramdown
-highlighter:       rouge
+# highlighter:       rouge
 #permalink:         pretty
 paginate:          15
 
