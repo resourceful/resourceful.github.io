@@ -37,7 +37,7 @@ PhD __Hanyang University__ Seoul, Korea
 ## Experience 
 
 `2017.Mar - Present`
-Assistant Professor __Gyeongsang National University__ Gyeongnam, Korea
+Associate Professor __Gyeongsang National University__ Gyeongnam, Korea
 
 `2017.Feb - 2017.Feb`
 Research Assistant Professor __Hanynag University__ Seoul, Korea
